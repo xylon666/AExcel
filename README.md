@@ -8,3 +8,4 @@
 将软件与待处理文件放在同一个文件夹下，运行即可。直接点击开始则全部合并，输入列名则只合并每个表中的相同列，列名之间用空格分开
 
 ## 软件效果图：
+![image](https://github.com/xylon666/Xylon_Code/blob/master/Image/2.png)
